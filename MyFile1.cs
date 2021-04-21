@@ -10,6 +10,8 @@ namespace WebApplication1.Models
     public class MyDetails
     {
         public string FirstName { get; set; }        
-        public string DOB { get; set; }       
+        public string DOB { get; set; }     
+        
+        public string Location { get; set; } 
     }
 }
