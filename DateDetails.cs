@@ -25,5 +25,9 @@ namespace WebApplication1.Models
         public string YearRange { get; set; }
 
         public List<DateDetails> usersinfo { get; set; }
+
+        //Added new line under Testing Branch
+        
+          public string MyLastName { get; set; }
     }
 }
