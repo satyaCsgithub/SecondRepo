@@ -12,6 +12,8 @@ namespace WebApplication1.Models
         public string FirstName { get; set; }        
         public string DOB { get; set; }    
         public string Location { get; set; } 
-        public string LastName { get; set; } //Added under main branch        
+        public string LastName { get; set; } //Added under main branch 
+        
+        public string BrotherName { get; set; } //added under main branch
     }
 }
